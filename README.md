@@ -1,6 +1,5 @@
 tetris
 ======
-Tetris
 You can find additional information about Tetris on Wikipedia at http://en.wikipedia.org/wiki/Tetris.
 
 Acknowledgement: this project is an updated version of a Python programming assignment from MIT. The original project, on which this assignment is based, is available at:
