@@ -58,5 +58,3 @@ Take a look at the tetris_template.py file. It contains class definitions for:
 9. Automatically moving pieces
 
 11. Game Over
-
-CONGRATULATIONS! You now have your very own Tetris game.
